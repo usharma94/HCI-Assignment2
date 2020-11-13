@@ -17,4 +17,6 @@ An app designed to help Ontarians seeking help in the community and to volunteer
 
 # Screenshots: 
 
+![picture alt](http://www.google.com/ "Title is optional")
+
 # Future Improvements: 
