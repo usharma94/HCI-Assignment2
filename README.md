@@ -24,3 +24,8 @@ https://sheridanc-my.sharepoint.com/:v:/g/personal/sharmupm_shernet_sheridancoll
 ![picture alt](https://github.com/usharma94/HCI-Assignment2/blob/main/screenshot_3.png/ "Title is optional")
 
 # Future Improvements: 
+1. Contact Tracing using bluetooth or other secure system
+2. Show statistics for city or selected location
+3. Ability to get in touch with physicians 
+4. Link family members to application in case of emergencies
+5. Have interactive maps and graphs in the statistics 
