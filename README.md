@@ -17,6 +17,6 @@ An app designed to help Ontarians seeking help in the community and to volunteer
 
 # Screenshots: 
 
-![picture alt](http://www.google.com/ "Title is optional")
+![picture alt](https://github.com/usharma94/HCI-Assignment2/blob/main/screenshot_1.png/ "Title is optional")
 
 # Future Improvements: 
