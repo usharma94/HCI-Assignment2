@@ -21,7 +21,7 @@ https://sheridanc-my.sharepoint.com/:v:/g/personal/sharmupm_shernet_sheridancoll
 
 ![picture alt](https://github.com/usharma94/HCI-Assignment2/blob/main/screenshot_1.png/ "Title is optional")
 ![picture alt](https://github.com/usharma94/HCI-Assignment2/blob/main/screenshot_2.png/ "Title is optional")
-![picture alt](https://github.com/usharma94/HCI-Assignment2/blob/main/screenshot_3.png/ "Title is optional")
+![picture alt](https://github.com/usharma94/HCI-Assignment2/blob/main/screenshot_4.png/ "Title is optional")
 
 # Future Improvements: 
 1. Contact Tracing using bluetooth or other secure system
