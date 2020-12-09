@@ -1,4 +1,4 @@
-# Can-COVID App
+# Can-COVID App Assignment 2
 
 An app designed to help Ontarians seeking help in the community and to volunteer in COVID-19 efforts.
 <hr>
